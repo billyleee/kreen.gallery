@@ -1,0 +1,86 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.container {
+    position: relative;
+}
+
+.navbar 
+{
+    font-size: 28px;
+    font-family: Georgia, serif;
+    min-height: 200px;
+}
+
+.navbar-nav
+{
+    display: flexbox;
+    gap: 20px;
+}
+
+.nav-link.active {
+    text-decoration: underline;
+}
+
+.page {
+    position: absolute;
+    left: 20px;
+    right: 20px;
+    text-align: center;
+}
+
+.page-enter {
+    opacity: 0;
+    transform: scale(1.1);
+}
+
+.page-enter-active {
+    opacity: 1;
+    transform: scale(1);
+    transition: opacity 400ms, transform 400ms;
+}
+
+.page-exit {
+    opacity: 1;
+    transform: scale(1);
+}
+
+.page-exit-active {
+    opacity: 0;
+    transform: scale(0.99);
+    transition: opacity 400ms, transform 400ms;
+}
+
+.nav-link:focus,
+.nav-link:hover {
+    text-decoration: underline; 
+}
+
+
+.Logo
+{
+    text-align: center;
+    background-image: url(./asset/bg-christmast-1.jpg) ;    
+    height: 400px;
+    background-size: cover;
+}
+
+.Logo1 {
+    margin-top: 80px;
+}
+
+
+.containerHome 
+{
+    background-color: rgb(225, 225, 225)
+}
+
+.card-img-top {
+    box-shadow: 0px 5px 6px 0px black;
+}
+
+.card-img-top:hover
+{
+    box-shadow: 0px 5px 6px 0px rgb(88, 88, 87) 
+}

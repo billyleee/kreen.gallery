@@ -1,0 +1,324 @@
+body {
+    background-image: url(./asset/bg-christmast-2.jpg);
+}
+
+.container 
+{
+    display: flex;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+}
+
+
+
+
+/* Swipe */
+.swiper {
+    height: 650px; 
+} 
+
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background:rgba(255, 255, 255, 0.5);
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+.swiper-slide img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+.Gambarpromo {
+    padding: 10px;
+    height: 100%;
+    width: 100%;
+}
+
+/* Foooter */
+
+.site-footer {
+    background-color: #26272b;
+    padding: 20px;
+    font-size: 15px;
+    line-height: 24px;
+    color: #737373;
+}
+
+.site-footer hr {
+    border-top-color: white;
+    opacity: 0.5
+}
+
+.site-footer hr.small {
+    margin: 20px 0
+}
+
+.site-footer h6 {
+    color: #fff;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-top: 5px;
+}
+
+.site-footer a {
+    color: #737373;
+}
+
+.site-footer a:hover {
+    color: #3366cc;
+    text-decoration: none;
+}
+
+.footer-links {
+    padding-left: 0;
+    list-style: none;
+}
+
+.footer-links li {
+    display: block;
+}
+
+.footer-links a {
+    color: #737373
+}
+
+.footer-links a:active,
+.footer-links a:focus,
+.footer-links a:hover {
+    color: #3366cc;
+    text-decoration: none;
+}
+
+.footer-links.inline li {
+    display: inline-block;
+}
+
+
+
+.copyright-text {
+    margin: 0
+}
+
+@media (max-width:991px) {
+    .site-footer [class^=col-] {
+        margin-bottom: 30px
+    }
+}
+
+@media (max-width:767px) {
+    .site-footer {
+        padding-bottom: 0
+    }
+
+    .site-footer .copyright-text,
+    .site-footer .social-icons {
+        text-align: center
+    }
+}
+
+.social-icons {
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none
+}
+
+.social-icons li {
+    display: inline-block;
+    margin-bottom: 4px
+}
+
+.social-icons li.title {
+    margin-right: 15px;
+    text-transform: uppercase;
+    color: #96a2b2;
+    font-weight: 700;
+    font-size: 13px
+}
+
+.social-icons a {
+    background-color: #67a0bd;
+    color: #818a91;
+    font-size: 16px;
+    display: inline-block;
+    line-height: 44px;
+    width: 44px;
+    height: 44px;
+    text-align: center;
+    margin-right: 8px;
+    border-radius: 100%;
+    -webkit-transition: all .2s linear;
+    -o-transition: all .2s linear;
+    transition: all .2s linear
+}
+
+@media (max-width:767px) {
+    .social-icons li.title {
+        display: block;
+        margin-right: 0;
+        font-weight: 600
+    }
+}
+
+
+.footercontainer 
+{
+    position: absolute;
+        left: calc(-50vw + 50%);
+        right: calc(-50vw + 50%);
+
+}
+
+/* Footer2 */
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+    border-radius: 20px;
+}
+
+footer {
+    background-color:#000000c7;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 30px;
+    margin-top: auto;
+    left: calc(-50vw + 50%);
+        right: calc(-50vw + 50%);
+        position: absolute;
+    margin-top: 35px;
+}
+
+footer li {
+    list-style: none;
+    margin: 10px;
+    display: inline-block;
+}
+
+.icons a:hover {
+    color: #ffffff;
+    transition: 0.5s;
+}
+
+.menu a {
+    color: #ffffff;
+    text-transform: capitalize;
+}
+
+.menu a:hover {
+    color: greenyellow;
+    transition: 0.5s;
+}
+
+.footer-copyright {
+    color: #ffffff;
+    padding: 15px;
+    text-transform: capitalize;
+}
+
+.footer-copyright p {
+    margin-bottom: 0px;
+    margin-top: 35px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+.footergroup {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.headerh4 {
+    color: white;  
+}
+
+.imagefooter 
+{
+    height: 25px;
+    width: 25px;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+li :hover {
+    box-shadow: 10px 10px 10px 10px dark;
+}
+
+.gambardalam
+{
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+.gambardalam2 
+{
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+}
+
+.section1,.section2,.section3,.section4,.section5 
+{
+    scroll-behavior: auto;
+}
+
+
+.dataGambar
+{
+    margin-top: 20px;
+    align-items: center;
+    text-align: center;
+}
+
+.gambardata {
+border: 5px solid rgb(0, 0, 0);
+}
+
+.container2 
+{   
+    padding: 5px;
+    margin: 5px;
+    width: 66%;
+    display: flex;
+    gap: 1rem;
+}
+
+.container3 
+{
+    padding: 5px;
+    margin: 5px;
+    width: 33%;
+    display: flex;
+    gap: 1rem;
+}
+
+.Cardcontainer p:first-child::first-letter
+{
+    color: #000000;
+        font-weight: bold;
+        font-size: 85px;
+        line-height: 60px;
+        padding-left: 25px;
+        margin-left: 5px;
+}
+.Cardcontainer 
+{
+        margin-top: 2rem;
+}

@@ -1,0 +1,134 @@
+[
+    {
+        "ID": "SC1",
+        "Name": "Day Mandelic", 
+        "Image": "day-mandelic.jpg",
+        "Description": "Saya adalah Day Mandelic"
+    },
+ 
+    {
+        "ID": "SC2",
+        "Name": "Gold Water", 
+        "Image": "./asset/Skincare/gold-water.jpg",
+        "Description": "Saya adalah Day Mandelic" 
+    },
+  
+    {
+        "ID": "SC3",
+        "Name": "Night Cream", 
+        "Image": "./asset/Skincare/night-cream-galacto.jpg",
+        "Description": "Saya adalah Day Mandelic"
+    },
+    {
+        "ID": "SC4",
+        "Name": "Probio", 
+      "image":"./asset/Skincare/probio.jpg",
+        "Description": "Saya adalah Day Mandelic"
+    },
+     {
+        "ID": "SC5",
+        "Name": "Rose Water", 
+        "Image": "./asset/Skincare/rose-water.jpg",
+        "Description": "Saya adalah Day Mandelic"
+    },
+     {
+        "ID": "PC1",
+        "Name": "Day Lotion", 
+        "Image": "./asset/PersonalCare/day-lotion.jpg",
+        "Description": "Saya adalah Day Mandelic"
+    },
+     {
+        "ID": "PC2",
+        "Name": "Exfoliating Gel", 
+        "Image": "./asset/PersonalCare/exfoliating.jpg",
+        "Description": "Saya adalah Day Mandelic"
+    },
+    {
+        "ID": "PC3",
+        "Name": "Hand Soap 250ml", 
+        "Image": "./asset/PersonalCare/hand-soap-250ml.jpg",
+        "Description": "Saya adalah Day Mandelic"
+    },
+
+     {
+        "ID": "PC4",
+        "Name": "Hand Soap 500ml", 
+        "Image": "./asset/PersonalCare/hand-soap-500-ml.jpg",
+        "Description": "Saya adalah Day Mandelic"
+    },
+     {
+        "ID": "PC5",
+        "Name": "V-Care", 
+        "Image": "./asset/PersonalCare/vcare.jpg",
+        "Description": "Saya adalah Day Mandelic"
+    },
+     {
+        "ID": "HC1",
+        "Name": "Black Shine", 
+        "Image": "./asset/HairCare/black-shine.jpg",
+        "Description": "Saya adalah Day Mandelic"
+    },
+     {
+        "ID": "HC2",
+        "Name": "Hair Nutrition", 
+        "Image": "./asset/HairCare/hair-nutrition.jpg",
+        "Description": "Saya adalah Day Mandelic"
+    },
+     {
+        "ID": "DC1",
+        "Name": "Lip Cream 01", 
+        "Image": "./asset/Decorative/lip-cream-01.jpg",
+        "Description": "Saya adalah Day Mandelic"
+    },
+     {
+        "ID": "DC2",
+        "Name": "Lip Cream 02", 
+        "Image": "./asset/Decorative/lip-cream-02.jpg",
+        "Description": "Saya adalah Day Mandelic"
+    },
+     {
+        "ID": "DC3",
+        "Name": "Lip Cream 03", 
+        "Image": "./asset/Decorative/lip-cream-03.jpg",
+        "Description": "Saya adalah Day Mandelic"
+    },
+     {
+        "ID": "DC4",
+        "Name": "Lip Magic Serum", 
+        "Image": "./asset/Decorative/lip-magic-serum.jpg",
+        "Description": "Saya adalah Day Mandelic"
+    },
+     {
+        "ID": "BM1",
+        "Name": "Body Mist Kuta Mistique", 
+        "Image": "./asset/BodyMist/body-mist-kuta-mistique.jpg",
+        "Description": "Saya adalah Day Mandelic"
+    },
+     {
+        "ID": "BM2",
+        "Name": "Body Mist Maui Paradise", 
+        "Image": "./asset/BodyMist/body-mist-maui-paradise.jpg",
+        "Description": "Saya adalah Day Mandelic"
+    },
+     {
+        "ID": "BM3",
+        "Name": "Body Mist Miami Dreams", 
+        "Image": "./asset/BodyMist/body-mist-miami-dreams.jpg",
+        "Description": "Saya adalah Day Mandelic"
+    },
+     {
+        "ID": "BM4",
+        "Name": "Body Mist Summer Queen", 
+        "Image": "./asset/BodyMist/body-mist-summer-queen.jpg",
+        "Description": "Saya adalah Day Mandelic"
+    },
+     {
+        "ID": "BM5",
+        "Name": "Gold Secret", 
+        "Image": "./asset/BodyMist/gold-secret.jpg",
+        "Description": "Saya adalah Day Mandelic"
+    },
+    {
+
+    }
+]
