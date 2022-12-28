@@ -17,7 +17,7 @@ function CardSkincare() {
           <Card style={{ width: 'auto' }}>
               <Card.Img variant="top" src={gambar2} />
               <Card.Body >
-                  <Card.Title>Lip Cream 02/Card.Title>
+                  <Card.Title>Lip Cream 02</Card.Title>
                   <Card.Text>
                       Some quick example text to build on the card title and make up the
                       bulk of the card's content.
