@@ -43,7 +43,7 @@ function CardSkincare() {
               <Modal.Body>
                   <div class='gambardalam'>
                       <img class='gambardalam2' src={gambar4} alt="" />
-                  </div
+                  </div>
 
                   <div class='Cardcontainer'><p>
                   
