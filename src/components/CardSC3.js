@@ -15,7 +15,7 @@ function CardSkincare() {
                             <Card style={{ width: 'auto' }}>
                                 <Card.Img variant="top" src={gambar3} />
                                 <Card.Body >
-                                    <Card.Title>Lip Cream 03</Card.Title>
+                                    <Card.Title>Night Cream</Card.Title>
                                     <Card.Text>
                             {/* this is text  */}
                                     </Card.Text>
@@ -35,7 +35,7 @@ function CardSkincare() {
                                 keyboard={false}
                                 centered>
                                 <Modal.Header closeButton>
-                                    <Modal.Title>Lip Cream 03</Modal.Title>
+                                    <Modal.Title>Night Cream</Modal.Title>
                                 </Modal.Header>
                                 <Modal.Body>
                                     <div class='gambardalam'>
