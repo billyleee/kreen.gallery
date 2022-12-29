@@ -43,14 +43,9 @@ function CardSkincare() {
                   <div class='gambardalam'>
                       <img class='gambardalam2' src={gambar5} alt="" />
                   </div>
-<<<<<<< HEAD
-
                   <div class='Cardcontainer'><p>
                   Membantu sebagai penyegar kulit muka, membantu , menenangkan kulit  wajah, dan menjaga kelembaban kulit wajah.
                   </p></div>
-=======
-                   Membantu sebagai penyegar kulit muka, membantu , menenangkan kulit  wajah, dan menjaga kelembaban kulit wajah.
->>>>>>> 26a42cb28d3e28e4887220afa4a739e20232f4b1
               </Modal.Body>
               <Modal.Footer>
                   <Button class='CloseButtonModal' variant="secondary" onClick={handleClose}>
