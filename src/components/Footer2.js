@@ -31,7 +31,6 @@ function Footer2() {
               <hr />
               <div>
                 <h5>Copyright @ 2022 All Rights Reserved.</h5>
-                <h1>you got hacked</h1>
               </div>
           </div>
       </footer>
