@@ -46,9 +46,8 @@ function CardSkincare() {
                   <div class='gambardalam'>
                       <img class='gambardalam2' src={gambar3} alt="" />
                   </div>
-            Gold Water Miracle Bio-C dengan formula yang kegunaan mudah meresap di kulit, memberikan manfaat antioksidan untuk membantu melindungi kulit dari paparan radikal bebas, membantu menyamarkan tanda-tanda penuanaan dini, memelihara tekstur kulit tetap elastis, dan mengurangi jumlah sebum berlebih pada wajah. Dengan kemampuan mengunci kelembaban dan menutrisi kulit sehingga kuit terasa lembut, tampak cerah dan terawat, sekaligus mampu membantu menjaga kulit yang cerah terlindungi sepanjang hari.
-
-              </Modal.Body>
+           Kandungan Galactomyces dapat membantu mencerahkan kulit, membantu mengurangi jumlah sebum pada kulit.
+                    </Modal.Body>
               <Modal.Footer>
                   <Button class='CloseButtonModal' variant="secondary" onClick={handleClose}>
                       Close
