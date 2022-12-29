@@ -28,7 +28,7 @@ function CardSkincare() {
           </Card>
 
 
-          <Modal
+    <Modal
               size="lg"
               show={lgShow}
               onHide={() => setLgShow(false)}
@@ -45,7 +45,7 @@ function CardSkincare() {
                   </div>
                   <div class='Cardcontainer'><p>
                 Kandungan Galactomyces dapat membantu mencerahkan kulit, membantu mengurangi jumlah sebum pada kulit.
-                  </p></div>
+              </p></div>
               </Modal.Body>
                     </Modal.Body>
               <Modal.Footer>
