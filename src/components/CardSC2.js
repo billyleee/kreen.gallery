@@ -43,23 +43,12 @@ function CardSkincare() {
               <Modal.Body>
                   <div class='gambardalam'>
                       <img class='gambardalam2' src={gambar2} alt="" />
+                  </div >
+                  <div class='Cardcontainer'>
+                    <p>
+                  Gold Water Miracle Bio-C dengan formula yang kegunaan mudah meresap di kuit, memberikan manfaat antioksidan untuk membantu melindungi kulit dari paparan radikal bebas dini, memelihara tekstur kulit tetap elastis, dan mengurangi jumlah sebum berlebih pada wajah. Dengan kemampuan mengunci kelembaban dan menutrisi kulit sehingga kulit terasa lembut, tampak cerah dan terawat, sekaligus mampu membantu menjaga kulit yang cerah terlindungi sepanjang hari.
+                    </p>
                   </div>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet sit laboriosam aperiam sequi illo excepturi aliquid doloribus beatae, culpa magnam! Suscipit nihil aliquam facere, aperiam ipsum minus voluptatem iste omnis
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content. ?
               </Modal.Body>
               <Modal.Footer>
                   <Button class='CloseButtonModal' variant="secondary" onClick={handleClose}>

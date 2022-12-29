@@ -46,22 +46,10 @@ function CardSkincare() {
                   <div class='gambardalam'>
                       <img class='gambardalam2' src={gambar5} alt="" />
                   </div>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet sit laboriosam aperiam sequi illo excepturi aliquid doloribus beatae, culpa magnam! Suscipit nihil aliquam facere, aperiam ipsum minus voluptatem iste omnis
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content. ?
+
+                  <div class='Cardcontainer'><p>
+                  Membantu sebagai penyegar kulit muka, membantu , menenangkan kulit  wajah, dan menjaga kelembaban kulit wajah.
+                  </p></div>
               </Modal.Body>
               <Modal.Footer>
                   <Button class='CloseButtonModal' variant="secondary" onClick={handleClose}>

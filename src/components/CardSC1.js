@@ -51,23 +51,7 @@ function CardSkincare() {
                     </div>
                     <div class='Cardcontainer'>
                         <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet sit laboriosam aperiam sequi illo excepturi aliquid doloribus beatae, culpa magnam! Suscipit nihil aliquam facere, aperiam ipsum minus voluptatem iste omnis
-                    bulk of the card's content.
-                    Some quick example text to build on the card title and make up the
-                    bulk of the card's content.
-                    Some quick example text to build on the card title and make up the
-                    bulk of the card's content.
-                    Some quick example text to build on the card title and make up the
-                    bulk of the card's content.
-                    Some quick example text to build on the card title and make up the
-                    bulk of the card's content.
-                    Some quick example text to build on the card title and make up the
-                    bulk of the card's content.
-                    Some quick example text to build on the card title and make up the
-                    bulk of the card's content.
-                    Some quick example text to build on the card title and make up the
-                    bulk of the card's content. ?
-                          </p>
+                    Day Cream Acne with Mandelic Acid diformulasikan dengan Allantoin, Salicylic Acid, dan 10 Hydroxydecanoic Acid untuk membantu merawat dan mengatasi kulit berjerawat, melindungi kulit dari pengaruh buruk sinar matahari, serta menjaga kelembaban, kelembutan, dan menenangkan kulit wajah.</p>
                     </div>
                 </Modal.Body>
                 <Modal.Footer>
