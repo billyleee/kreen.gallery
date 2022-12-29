@@ -47,7 +47,6 @@ function CardSkincare() {
                 Kandungan Galactomyces dapat membantu mencerahkan kulit, membantu mengurangi jumlah sebum pada kulit.
               </p></div>
               </Modal.Body>
-                    </Modal.Body>
               <Modal.Footer>
                   <Button class='CloseButtonModal' variant="secondary" onClick={handleClose}>
                       Close
