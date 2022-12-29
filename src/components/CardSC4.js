@@ -19,9 +19,7 @@ function CardSkincare() {
               <Card.Body >
                   <Card.Title>Probio</Card.Title>
                   <Card.Text>
-                      Some quick example text to build on the card title and make up the
-                      bulk of the card's content.
-                      Some quick example text to build on the card title and make up the
+
 
                   </Card.Text>
                   <Button variant="primary" onClick={handleShow}>
@@ -46,11 +44,15 @@ function CardSkincare() {
                   <div class='gambardalam'>
                       <img class='gambardalam2' src={gambar4} alt="" />
                   </div>
+<<<<<<< HEAD
 
                   <div class='Cardcontainer'><p>
                   
                   Probio-C Premium Ampoule Mist diformulasikan sebagai Multi Purpose Skin Care memiliki tekstur yang ringan dan mudah meyerap di kulit wajah dengan sesasi yang menyegarkan. Membantu mengunci kelembaban kulit agar terlihat lebih sehat dan terawat, membantu mengurangi sebum berlebug pada kulit wajah, sekaligus melindungi dari perngaruh buruk sinar ultraviolet. Memiliki kemampuan membantu menjaga skin barrier kulit, membantu mengurangi tanda-tanda penuaan dini, serta meredakan kemerahan pada kulit wajah. Diperkaya dengan Vitamin C dan Niacinamide untuk membantu wajah tampak lebih cerah bercahaya dan sebagai antioksidan. Kulit cerah dengan perawatan yang optimal.
                   </p></div>
+=======
+               Probio-C Premium Ampoule Mist diformulasikan sebagai Multi Purpose Skin Care memiliki tekstur yang ringan dan mudah meyerap di kulit wajah dengan sesasi yang menyegarkan. Membantu mengunci kelembaban kulit agar terlihat lebih sehat dan terawat, membantu mengurangi sebum berlebug pada kulit wajah, sekaligus melindungi dari perngaruh buruk sinar ultraviolet. Memiliki kemampuan membantu menjaga skin barrier kulit, membantu mengurangi tanda-tanda penuaan dini, serta meredakan kemerahan pada kulit wajah. Diperkaya dengan Vitamin C dan Niacinamide untuk membantu wajah tampak lebih cerah bercahaya dan sebagai antioksidan. Kulit cerah dengan perawatan yang optimal.
+>>>>>>> 26a42cb28d3e28e4887220afa4a739e20232f4b1
               </Modal.Body>
               <Modal.Footer>
                   <Button class='CloseButtonModal' variant="secondary" onClick={handleClose}>
