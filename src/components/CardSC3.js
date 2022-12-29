@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import Modal from 'react-bootstrap/Modal';
-import gambar3 from '../asset/Decorative/lip-cream-03.jpg'
+import gambar3 from '../asset/Skincare/night-cream-galacto.jpg';
 
 
 function CardSkincare() {
