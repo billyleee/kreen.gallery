@@ -15,7 +15,7 @@ import gambar4 from '../asset/Skincare/probio.jpg'
                     <Card style={{ width: 'auto' }}>
                         <Card.Img variant="top" src={gambar4} />
                         <Card.Body >
-                            <Card.Title>Probio</Card.Title>
+                            <Card.Title>Probio C premium ampoule mist 60ml</Card.Title>
                             <Card.Text>
                                 {/* this is text  */}
                             </Card.Text>
@@ -35,7 +35,7 @@ import gambar4 from '../asset/Skincare/probio.jpg'
                         keyboard={false}
                         centered>
                         <Modal.Header closeButton>
-                            <Modal.Title>Probio</Modal.Title>
+                            <Modal.Title>Probio C premium ampoule mist 60ml</Modal.Title>
                         </Modal.Header>
                         <Modal.Body>
                             <div class='gambardalam'>
