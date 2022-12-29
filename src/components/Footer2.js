@@ -30,7 +30,7 @@ function Footer2() {
               </div>
               <hr />
               <div>
-                <h5>Copyright @ 2023 All Rights Reserved.</h5>
+                <h5>Copyright @ 2022 All Rights Reserved.</h5>
               </div>
           </div>
       </footer>
