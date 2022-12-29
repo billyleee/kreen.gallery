@@ -46,10 +46,6 @@ function CardSkincare() {
                   Gold Water Miracle Bio-C dengan formula yang kegunaan mudah meresap di kuit, memberikan manfaat antioksidan untuk membantu melindungi kulit dari paparan radikal bebas dini, memelihara tekstur kulit tetap elastis, dan mengurangi jumlah sebum berlebih pada wajah. Dengan kemampuan mengunci kelembaban dan menutrisi kulit sehingga kulit terasa lembut, tampak cerah dan terawat, sekaligus mampu membantu menjaga kulit yang cerah terlindungi sepanjang hari.
                     </p>
                   </div>
-<<<<<<< HEAD
-=======
-         Gold Water Miracle Bio-C dengan formula yang kegunaan mudah meresap di kuit, memberikan manfaat antioksidan untuk membantu melindungi kulit dari paparan radikal bebas dini, memelihara tekstur kulit tetap elastis, dan mengurangi jumlah sebum berlebih pada wajah. Dengan kemampuan mengunci kelembaban dan menutrisi kulit sehingga kulit terasa lembut, tampak cerah dan terawat, sekaligus mampu membantu menjaga kulit yang cerah terlindungi sepanjang hari.
->>>>>>> 26a42cb28d3e28e4887220afa4a739e20232f4b1
               </Modal.Body>
               <Modal.Footer>
                   <Button class='CloseButtonModal' variant="secondary" onClick={handleClose}>
