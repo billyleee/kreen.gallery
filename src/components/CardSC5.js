@@ -17,7 +17,7 @@ function CardSkincare() {
           <Card style={{ width: 'auto' }}>
               <Card.Img variant="top" src={gambar5} />
               <Card.Body >
-                  <Card.Title>Rose Water</Card.Title>
+                  <Card.Title>Rose Water with centella 150ml</Card.Title>
                   <Card.Text>
 
                   </Card.Text>
@@ -37,7 +37,7 @@ function CardSkincare() {
               keyboard={false}
               centered>
               <Modal.Header closeButton>
-                  <Modal.Title>Water Rose</Modal.Title>
+                  <Modal.Title>Rose Water with centella 150ml</Modal.Title>
               </Modal.Header>
               <Modal.Body>
                   <div class='gambardalam'>
