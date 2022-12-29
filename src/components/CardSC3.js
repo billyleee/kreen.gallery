@@ -43,16 +43,11 @@ function CardSkincare() {
                   <div class='gambardalam'>
                       <img class='gambardalam2' src={gambar3} alt="" />
                   </div>
-<<<<<<< HEAD
                   <div class='Cardcontainer'><p>
-
                 Kandungan Galactomyces dapat membantu mencerahkan kulit, membantu mengurangi jumlah sebum pada kulit.
                   </p></div>
               </Modal.Body>
-=======
-           Kandungan Galactomyces dapat membantu mencerahkan kulit, membantu mengurangi jumlah sebum pada kulit.
                     </Modal.Body>
->>>>>>> 26a42cb28d3e28e4887220afa4a739e20232f4b1
               <Modal.Footer>
                   <Button class='CloseButtonModal' variant="secondary" onClick={handleClose}>
                       Close
