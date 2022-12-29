@@ -22,9 +22,9 @@ function CardSkincare() {
                 <Card.Body >
                     <Card.Title>Day Cream Mandelic</Card.Title>
                     <Card.Text>
-                        Some quick example text to build on the card title and make up the
-                        bulk of the card's content.
-                        Some quick example text to build on the card title and make up the
+//                         Some quick example text to build on the card title and make up the
+//                         bulk of the card's content.
+//                         Some quick example text to build on the card title and make up the
 
                     </Card.Text>
                     <Button variant="primary" onClick={handleShow}>
