@@ -48,12 +48,8 @@ function CardSkincare() {
                     </div>
                     <div class='Cardcontainer'>
                         <p>
-<<<<<<< HEAD
-                    Day Cream Acne with Mandelic Acid diformulasikan dengan Allantoin, Salicylic Acid, dan 10 Hydroxydecanoic Acid untuk membantu merawat dan mengatasi kulit berjerawat, melindungi kulit dari pengaruh buruk sinar matahari, serta menjaga kelembaban, kelembutan, dan menenangkan kulit wajah.</p>
-=======
                    Day Cream Acne with Mandelic Acid diformulasikan dengan Allantoin, Salicylic Acid, dan 10 Hydroxydecanoic Acide untuk membantu merawat dan mengatasi kulit berjerawat, melindungi kulit dari pengaruh buruk sinar matahari, serta menjaga kelembaban, kelembutan, dan menengangkan kulit wajaha.
                           </p>
->>>>>>> 26a42cb28d3e28e4887220afa4a739e20232f4b1
                     </div>
                 </Modal.Body>
                 <Modal.Footer>
