@@ -5,51 +5,46 @@ import Modal from 'react-bootstrap/Modal';
 import gambar4 from '../asset/Skincare/probio.jpg'
 
 
-function CardSkincare() {
-    const [lgShow, setLgShow] = useState(false);
-    const handleClose = () => setLgShow(false);
-    const handleShow = () => setLgShow(true);
+        function CardSkincare() {
+            const [lgShow, setLgShow] = useState(false);
+            const handleClose = () => setLgShow(false);
+            const handleShow = () => setLgShow(true);
 
-    return (
-
-
-        <div>
-            <Card style={{ width: 'auto' }}>
-                <Card.Img variant="top" src={gambar4} />
-                <Card.Body >
-                    <Card.Title>Probio</Card.Title>
-                    <Card.Text>
-                        Some quick example text to build on the card title and make up the
-                        bulk of the card's content.
-                        Some quick example text to build on the card title and make up the
-
-                    </Card.Text>
-                    <Button variant="primary" onClick={handleShow}>
-                        Read More
-                    </Button>
-                </Card.Body>
-            </Card>
+            return (
+                <div>
+                    <Card style={{ width: 'auto' }}>
+                        <Card.Img variant="top" src={gambar4} />
+                        <Card.Body >
+                            <Card.Title>Probio</Card.Title>
+                            <Card.Text>
+                                {/* this is text  */}
+                            </Card.Text>
+                            <Button variant="primary" onClick={handleShow}>
+                                Read More
+                            </Button>
+                        </Card.Body>
+                    </Card>
 
 
-            <Modal
-                size="lg"
-                show={lgShow}
-                onHide={() => setLgShow(false)}
-                aria-labelledby="example-modal-sizes-title-lg"
-                backdrop="static"
-                keyboard={false}
-                centered>
-                <Modal.Header closeButton>
-                    <Modal.Title>Probio</Modal.Title>
-                </Modal.Header>
-                <Modal.Body>
-                    <div class='gambardalam'>
-                        <img class='gambardalam2' src={gambar4} alt="" />
-                    </div>
-                    <div class='Cardcontainer'>
-                        <p>
-                 Probio-C Premium Ampoule Mist diformulasikan sebagai Multi Purpose Skin Care memiliki tekstur yang ringan dan mudah meyerap di kulit wajah dengan sesasi yang menyegarkan. Membantu mengunci kelembaban kulit agar terlihat lebih sehat dan terawat, membantu mengurangi sebum berlebug pada kulit wajah, sekaligus melindungi dari perngaruh buruk sinar ultraviolet. Memiliki kemampuan membantu menjaga skin barrier kulit, membantu mengurangi tanda-tanda penuaan dini, serta meredakan kemerahan pada kulit wajah. Diperkaya dengan Vitamin C dan Niacinamide untuk membantu wajah tampak lebih cerah bercahaya dan sebagai antioksidan. Kulit cerah dengan perawatan yang optimal.
-                 </p>
+                    <Modal
+                        size="lg"
+                        show={lgShow}
+                        onHide={() => setLgShow(false)}
+                        aria-labelledby="example-modal-sizes-title-lg"
+                        backdrop="static"
+                        keyboard={false}
+                        centered>
+                        <Modal.Header closeButton>
+                            <Modal.Title>Probio</Modal.Title>
+                        </Modal.Header>
+                        <Modal.Body>
+                            <div class='gambardalam'>
+                                <img class='gambardalam2' src={gambar4} alt="" />
+                            </div>
+                            <div class='Cardcontainer'>
+                                <p>
+                                    Probio-C Premium Ampoule Mist diformulasikan sebagai Multi Purpose Skin Care memiliki tekstur yang ringan dan mudah meyerap di kulit wajah dengan sesasi yang menyegarkan. Membantu mengunci kelembaban kulit agar terlihat lebih sehat dan terawat, membantu mengurangi sebum berlebug pada kulit wajah, sekaligus melindungi dari perngaruh buruk sinar ultraviolet. Memiliki kemampuan membantu menjaga skin barrier kulit, membantu mengurangi tanda-tanda penuaan dini, serta meredakan kemerahan pada kulit wajah. Diperkaya dengan Vitamin C dan Niacinamide untuk membantu wajah tampak lebih cerah bercahaya dan sebagai antioksidan. Kulit cerah dengan perawatan yang optimal.
+                        </p>
                         </div>
                 </Modal.Body>
                 <Modal.Footer>
