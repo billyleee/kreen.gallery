@@ -20,7 +20,7 @@ function CardSkincare() {
             <Card style={{ width: 'auto' }}>
                 <Card.Img variant="top" src={gambar1} />
                 <Card.Body >
-                    <Card.Title>Day Cream Mandelic</Card.Title>
+                    <Card.Title>Day Cream Acne with Mandelic Acid 10g</Card.Title>
                     <Card.Text>
 
                     </Card.Text>
@@ -40,7 +40,7 @@ function CardSkincare() {
                 keyboard={false}
                 centered>
                 <Modal.Header closeButton>
-                      <Modal.Title>Day Cream Mandelic</Modal.Title>
+                      <Modal.Title>Day Cream Acne with Mandelic Acid 10g</Modal.Title>
                 </Modal.Header>
                 <Modal.Body>
                     <div class='gambardalam'>
