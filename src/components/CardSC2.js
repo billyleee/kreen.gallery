@@ -15,7 +15,7 @@ function CardSkincare() {
           <Card style={{ width: 'auto' }}>
               <Card.Img variant="top" src={gambar2} />
               <Card.Body >
-                  <Card.Title>Gold Water</Card.Title>
+                  <Card.Title>Gold Water Ceramide Bio-C 30ml</Card.Title>
                   <Card.Text>
 
                   </Card.Text>
@@ -35,7 +35,7 @@ function CardSkincare() {
               keyboard={false}
               centered>
               <Modal.Header closeButton>
-                  <Modal.Title>Gold Water</Modal.Title>
+                  <Modal.Title>Gold Water Ceramide Bio-C 30ml</Modal.Title>
               </Modal.Header>
               <Modal.Body>
                   <div class='gambardalam'>
