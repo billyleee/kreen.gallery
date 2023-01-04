@@ -18,7 +18,7 @@ function Footer2() {
           <ul class="icons">
                 <h4 class='headerh4'>Social:</h4>
               <li class='listicon'><img class="imagefooter" src="https://www.svgrepo.com/show/13639/instagram.svg" alt="" /><ion-icon name="logo-whatsapp"></ion-icon></li>
-              <li class='listicon'><img class="imagefooter" src="https://www.svgrepo.com/show/111203/facebook.svg" alt="" /><ion-icon name="logo-whatsapp"></ion-icon></li>
+              <li class='listicon'><img class="imagefooter" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Shopee_logo.svg" alt="" /><ion-icon name="logo-whatsapp"></ion-icon></li>
               <li class='listicon'><img class="imagefooter" src="https://www.svgrepo.com/show/349563/whatsapp.svg" alt="" /><ion-icon name="logo-whatsapp"></ion-icon></li>
               <li class='listicon'><img class="imagefooter" src="https://www.svgrepo.com/show/303260/tiktok-logo-logo.svg" alt="" /><ion-icon name="logo-whatsapp"></ion-icon></li>
           </ul> 
