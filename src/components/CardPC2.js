@@ -19,9 +19,7 @@ function CardSkincare() {
               <Card.Body >
                   <Card.Title>Exfoliating Gel</Card.Title>
                   <Card.Text>
-                      Some quick example text to build on the card title and make up the
-                      bulk of the card's content.
-                      Some quick example text to build on the card title and make up the
+                      {/* text is available here */}
 
                   </Card.Text>
                   <Button variant="primary" onClick={handleShow}>
@@ -46,22 +44,12 @@ function CardSkincare() {
                   <div class='gambardalam'>
                       <img class='gambardalam2' src={gambar2} alt="" />
                   </div>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet sit laboriosam aperiam sequi illo excepturi aliquid doloribus beatae, culpa magnam! Suscipit nihil aliquam facere, aperiam ipsum minus voluptatem iste omnis
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content. ?
+
+                  <div class='Cardcontainer'>
+                      <p>
+                  Bright Deep Soothe Exfoliating Gel diformulasikan dengan perpaduan bahan aktif Aloe Vera Barbadensis Leaf Extract, Hydrolyzed Algae Extract, Centella Asiatica Extract, dan Beta Vulgaris (Beef) Roof Extract, berfungsi mengangkat sel kulit mati tanpa menyebabkan iritasi, menyejukkan dan menenangkan kulit wajag, menjaga kelembaban kulit, membantu mengurangi ukuran pori-pori, mencerahkan wajah, membantu menghidrasi kulit, merawat kulit wajah agar tetap sehat dan terawat.
+                      </p>
+                  </div>
               </Modal.Body>
               <Modal.Footer>
                   <Button class='CloseButtonModal' variant="secondary" onClick={handleClose}>
