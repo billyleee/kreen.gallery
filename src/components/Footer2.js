@@ -17,10 +17,25 @@ function Footer2() {
           <hr />
           <ul class="icons">
                 <h4 class='headerh4'>Social:</h4>
-              <li class='listicon'><img class="imagefooter" src="https://www.svgrepo.com/show/13639/instagram.svg" alt="" /><ion-icon name="logo-whatsapp"></ion-icon></li>
-              <li class='listicon'><img class="imagefooter" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Shopee_logo.svg" alt="" /><ion-icon name="logo-whatsapp"></ion-icon></li>
-              <li class='listicon'><img class="imagefooter" src="https://www.svgrepo.com/show/349563/whatsapp.svg" alt="" /><ion-icon name="logo-whatsapp"></ion-icon></li>
-              <li class='listicon'><img class="imagefooter" src="https://www.svgrepo.com/show/303260/tiktok-logo-logo.svg" alt="" /><ion-icon name="logo-whatsapp"></ion-icon></li>
+              <li class='listicon'>
+              
+          <a href="https://www.instagram.com/k.reenofficial"><img class="imagefooter" src="https://www.svgrepo.com/show/13639/instagram.svg" alt="" />
+          </a>
+          <ion-icon name="logo-IG"></ion-icon></li>
+              <li class='listicon'>
+          <a href="https://shopee.co.id/k.reen">
+            <img class="imagefooter" href src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Shopee_logo.svg" alt="" />
+            </a>
+            <ion-icon name="logo-shoope"></ion-icon></li>
+              <li class='listicon'>
+          <a href="https://wa.link/f58l6s"><img class="imagefooter" src="https://www.svgrepo.com/show/349563/whatsapp.svg" alt="" />
+          </a>
+          <ion-icon name="logo-whatsapp"></ion-icon></li>
+          <li class='listicon'>
+          <a href="https://www.tiktok.com/@k.reenofficial">
+                <img class="imagefooter" src="https://www.svgrepo.com/show/303260/tiktok-logo-logo.svg" alt="" />
+          </a>
+              <ion-icon name="logo-tiktok"></ion-icon></li>
           </ul> 
           <div class="footer-copyright">
               <div class='footergroup'>
