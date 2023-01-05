@@ -19,10 +19,7 @@ function CardSkincare() {
               <Card.Body >
                   <Card.Title>Body Mist Summer Queen</Card.Title>
                   <Card.Text>
-                      Some quick example text to build on the card title and make up the
-                      bulk of the card's content.
-                      Some quick example text to build on the card title and make up the
-
+                      {/* text is available here */}
                   </Card.Text>
                   <Button variant="primary" onClick={handleShow}>
                       Read More
@@ -46,22 +43,11 @@ function CardSkincare() {
                   <div class='gambardalam'>
                       <img class='gambardalam2' src={gambar4} alt="" />
                   </div>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet sit laboriosam aperiam sequi illo excepturi aliquid doloribus beatae, culpa magnam! Suscipit nihil aliquam facere, aperiam ipsum minus voluptatem iste omnis
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content. ?
+                  <div class='Cardcontainer'>
+                      <p>
+                          Pewangi badan dengan aromanya yang khas dan segar membantu memberikan wangi yang menyegarkan.
+                  </p>
+              </div>
               </Modal.Body>
               <Modal.Footer>
                   <Button class='CloseButtonModal' variant="secondary" onClick={handleClose}>
