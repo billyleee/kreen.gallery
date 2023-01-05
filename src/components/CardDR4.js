@@ -19,9 +19,8 @@ function CardSkincare() {
               <Card.Body >
                   <Card.Title>Lip Magic Serum</Card.Title>
                   <Card.Text>
-                      Some quick example text to build on the card title and make up the
-                      bulk of the card's content.
-                      Some quick example text to build on the card title and make up the
+
+                      {/* text is available here */}
 
                   </Card.Text>
                   <Button variant="primary" onClick={handleShow}>
@@ -46,22 +45,11 @@ function CardSkincare() {
                   <div class='gambardalam'>
                       <img class='gambardalam2' src={gambar4} alt="" />
                   </div>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet sit laboriosam aperiam sequi illo excepturi aliquid doloribus beatae, culpa magnam! Suscipit nihil aliquam facere, aperiam ipsum minus voluptatem iste omnis
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content. ?
+                  <div class='Cardcontainer'>
+                      <p>
+              Lip Magic Serum dapat membantu merawat dan menutrisi bibir, Membantu menjaga kelembaban bibir, dan membantu menjaga warna alami bibir. Keterangan: Penamaan produk "Magic" karena warna sediaaan lip serum berwana bening, namun ketika diaplikasikan ke bibir timbul warna pink.
+                    </p>
+                  </div>
               </Modal.Body>
               <Modal.Footer>
                   <Button class='CloseButtonModal' variant="secondary" onClick={handleClose}>
