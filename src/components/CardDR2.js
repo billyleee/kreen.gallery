@@ -19,9 +19,8 @@ function CardSkincare() {
               <Card.Body >
                   <Card.Title>Lip Cream 02</Card.Title>
                   <Card.Text>
-                      Some quick example text to build on the card title and make up the
-                      bulk of the card's content.
-                      Some quick example text to build on the card title and make up the
+
+                 {/* text is available here */}
 
                   </Card.Text>
                   <Button variant="primary" onClick={handleShow}>
@@ -46,22 +45,11 @@ function CardSkincare() {
                   <div class='gambardalam'>
                       <img class='gambardalam2' src={gambar2} alt="" />
                   </div>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet sit laboriosam aperiam sequi illo excepturi aliquid doloribus beatae, culpa magnam! Suscipit nihil aliquam facere, aperiam ipsum minus voluptatem iste omnis
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content. ?
+                  <div class='Cardcontainer'>
+                      <p>
+                          Perwarna bibir yang membantu memberikan warna pada bibir sehingga tampilan wajah tampak segar dan berseri.
+                      </p>
+                  </div>
               </Modal.Body>
               <Modal.Footer>
                   <Button class='CloseButtonModal' variant="secondary" onClick={handleClose}>
