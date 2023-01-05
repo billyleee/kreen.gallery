@@ -19,9 +19,7 @@ function CardSkincare() {
               <Card.Body >
                   <Card.Title>Day Lotion</Card.Title>
                   <Card.Text>
-                      Some quick example text to build on the card title and make up the
-                      bulk of the card's content.
-                      Some quick example text to build on the card title and make up the
+                      {/* text is available here */}
 
                   </Card.Text>
                   <Button variant="primary" onClick={handleShow}>
@@ -46,22 +44,11 @@ function CardSkincare() {
                   <div class='gambardalam'>
                       <img class='gambardalam2' src={gambar1} alt="" />
                   </div>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet sit laboriosam aperiam sequi illo excepturi aliquid doloribus beatae, culpa magnam! Suscipit nihil aliquam facere, aperiam ipsum minus voluptatem iste omnis
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content. ?
+                  <div class='Cardcontainer'>
+                      <p>
+                  Hydro Bright Smooth Day Lotion memiliki tekstur yang tidak lengket dan lembut dengan wangi yang menyegarkan, berfungsi untuk merawat kulit agar tetap sehat dan terawat, diformulasikan dengan Centella Asiatica Extract, Beta Vulgaris (Beet) Root Extract, Soybean (Glycine Soja) Extract, Ceratonia Siliqua Seed Extract, dan Hydrolized algae extract yang berhasiat dan bernutrisi bagi kulit, menjaga kulit dari pengaruh buruk sinar matahari, membuat kulit tampak lebih cerah seketika dan tidak kusam, menjaga kulit agar tetap terhidrasi, menjaga kelembaban kulit, menghaluskan dan melembutkan kulit, membantu menjaga elastisitas kulit dan meningkatkan kekencangan kulit, membantu mengurangi tanda-tanda regenerasi kulit dengan mengurangi kerutan kulit.  
+                      </p>
+                  </div>
               </Modal.Body>
               <Modal.Footer>
                   <Button class='CloseButtonModal' variant="secondary" onClick={handleClose}>
