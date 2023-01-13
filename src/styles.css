@@ -66,6 +66,12 @@ html {
     background-size: cover;
 }
 
+
+.HeaderLogo 
+{
+   background: whitesmoke;
+}
+
 .Logo1 {
     margin-top: 80px;
 }
