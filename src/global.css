@@ -10,12 +10,15 @@ body {
 }
 
 
-
-
 /* Swipe */
 .swiper {
     height: 650px; 
 } 
+
+.swiper-wrapper 
+{
+    background-color: whitesmoke;
+}
 
 .swiper-slide {
     text-align: center;
