@@ -1,7 +1,7 @@
 body 
 {
     background-image: url(https://img.freepik.com/free-photo/3d-easter-bunny-luxury-rose-gold-holidays-celebration-theme-set_53876-160815.jpg?w=1380&t=st=1673581135~exp=1673581735~hmac=88e99a8e4402e9d4f24bb576d55ee598ec95072ea0a5b258b3aeb2cf05080d12);
-    background-repeat: no-repeat;
+    background-repeat: cover;
     background-size: auto;
 }
 
