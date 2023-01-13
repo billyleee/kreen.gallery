@@ -1,5 +1,6 @@
-## hi all this is my example gallery website section idea !
+## Hi everyone this is my project example gallery website section idea ! 
 
+before start code may take a coffee and discuss about it ask me anything about code : https://github.com/billyleee 🎉😊😄
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
