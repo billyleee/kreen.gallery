@@ -49,7 +49,7 @@ function Master () {
         
     return (
         
-                                                <div>
+                                              <div class="HeaderLogo">
                                                         <div class='Logo'>
                                                             <img  class='Logo1' src={Logo} alt="" />           
                                                         </div>
