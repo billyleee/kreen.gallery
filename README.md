@@ -1,4 +1,4 @@
-hi all this is my example gallery website section idea !
+## hi all this is my example gallery website section idea !
 
 # Getting Started with Create React App
 
