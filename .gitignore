@@ -1,13 +1,8 @@
 
 
-# dependencies
-**/node_modules
+# dependenci
 /node_modules
-*node_modules/*
-*src/*
-secrets.yml
-
-
+.node_modules
 /.pnp
 .pnp.js
 
