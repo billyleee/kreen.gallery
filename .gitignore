@@ -1,7 +1,9 @@
 
-# dependencies
-/node_modules
 
+# dependencies
+**/node_modules
+/node_modules
+*node_modules/*
 *src/*
 secrets.yml
 
