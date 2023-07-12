@@ -1,7 +1,5 @@
 # Ignore everything (folders and files) on root only
 /*
-node_modules
-!api
-!vercel.json
-!*.html
+node_modules/
+
 
