@@ -1,7 +1,8 @@
 
 
 # dependenci
-.node_modules
+*.static
+*.node_modules
 /.pnp
 .pnp.js
 
