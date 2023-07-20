@@ -1,8 +1,7 @@
 
 
 # dependenci
-*.static
-*.node_modules
+
 /.pnp
 .pnp.js
 
@@ -12,6 +11,8 @@
 # production
 /build
 *.node_modules/
+*.static
+*.node_modules
 
 # misc
 .DS_Store
