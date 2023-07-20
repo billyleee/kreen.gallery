@@ -13,6 +13,9 @@
 *.node_modules/
 *.static
 *.node_modules
+.static
+.node_modules
+
 
 # misc
 .DS_Store
