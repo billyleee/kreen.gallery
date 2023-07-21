@@ -11,9 +11,6 @@
 # production
 /build
 *.node_modules/
-*.static
-*.node_modules
-static
 node_modules
 
 
