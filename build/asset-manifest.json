@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.268307a2.css",
+    "main.js": "/static/js/main.1e432134.js",
+    "static/media/gold-secret.jpg": "/static/media/gold-secret.3eb4c5ea87cc89859338.jpg",
+    "static/media/hand-soap-500-ml.jpg": "/static/media/hand-soap-500-ml.05f562a0ff27f4b08d4c.jpg",
+    "static/media/exfoliating.jpg": "/static/media/exfoliating.ea2650d78bd204972b9a.jpg",
+    "static/media/gold-water.jpg": "/static/media/gold-water.bb372ee4844535457370.jpg",
+    "static/media/rose-water.jpg": "/static/media/rose-water.d028a5eef1e3b8822853.jpg",
+    "static/media/night-cream-galacto.jpg": "/static/media/night-cream-galacto.feede34e8ebf06836b94.jpg",
+    "static/media/day-mandelic.jpg": "/static/media/day-mandelic.1adf925ef3988511d135.jpg",
+    "static/media/hand-soap-250ml.jpg": "/static/media/hand-soap-250ml.556480c78b12f4261045.jpg",
+    "static/media/probio.jpg": "/static/media/probio.b48b2c8be99976d962ef.jpg",
+    "static/media/body-mist-miami-dreams.jpg": "/static/media/body-mist-miami-dreams.9aaef49425dc72f155ea.jpg",
+    "static/media/body-mist-summer-queen.jpg": "/static/media/body-mist-summer-queen.586af4fb509085ed933b.jpg",
+    "static/media/body-mist-kuta-mistique.jpg": "/static/media/body-mist-kuta-mistique.c2a05778fefe0ed636f7.jpg",
+    "static/media/body-mist-maui-paradise.jpg": "/static/media/body-mist-maui-paradise.d8a43e6b8caf6946eb14.jpg",
+    "static/media/promo5.jpg": "/static/media/promo5.0b4e69e4f109ffe3e7bf.jpg",
+    "static/media/day-lotion.jpg": "/static/media/day-lotion.8ccb25147ba70d5a441f.jpg",
+    "static/media/lip-cream-02.jpg": "/static/media/lip-cream-02.465266c140a090127102.jpg",
+    "static/media/vcare.jpg": "/static/media/vcare.e6de3fd9cba114f2451d.jpg",
+    "static/media/lip-cream-01.jpg": "/static/media/lip-cream-01.7c9758e567338aff3cd8.jpg",
+    "static/media/lip-cream-03.jpg": "/static/media/lip-cream-03.c92f5bbc634908824ee9.jpg",
+    "static/media/lip-magic-serum.jpg": "/static/media/lip-magic-serum.ae5ba60ac1d27a5529d6.jpg",
+    "static/media/black-shine.jpg": "/static/media/black-shine.c764d64f3352605a64a7.jpg",
+    "static/media/hair-nutrition.jpg": "/static/media/hair-nutrition.d6a864077fcafb552493.jpg",
+    "static/media/promo9.jpg": "/static/media/promo9.13b23fd1fec5790fd38d.jpg",
+    "static/media/promo2.jpg": "/static/media/promo2.4e13b82d4f02281da8d5.jpg",
+    "static/media/promo7.jpg": "/static/media/promo7.f51dcab82b60cfe4ac23.jpg",
+    "static/media/promo1.jpg": "/static/media/promo1.9ee062b8efe952bd9c52.jpg",
+    "static/media/promo6.jpg": "/static/media/promo6.2c5be2c1109e324780f1.jpg",
+    "static/media/promo4.jpg": "/static/media/promo4.d6324767d490cc686bc3.jpg",
+    "static/media/promo3.jpg": "/static/media/promo3.ae63ccea17c4e2adea4b.jpg",
+    "static/media/promo8.jpg": "/static/media/promo8.b2744021bcd1a9274d4d.jpg",
+    "index.html": "/index.html",
+    "main.268307a2.css.map": "/static/css/main.268307a2.css.map",
+    "main.1e432134.js.map": "/static/js/main.1e432134.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.268307a2.css",
+    "static/js/main.1e432134.js"
+  ]
+}
